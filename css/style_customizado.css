@@ -1,0 +1,104 @@
+
+body {
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+
+/* Página Login */
+
+
+.div_pgLogin{
+    margin: 40px;
+}
+
+
+.div_login_topo_centro{
+    padding-top: 0px;
+    color: #28166F;
+    text-align: center;
+}
+
+
+.rodape_login{
+    text-align: center;
+}
+
+/* Principal */
+
+
+#conteudo_topo{
+    position: relative;
+
+}
+
+
+.img_topo_logo {
+    padding-top: 5px;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+
+.topo_centro{
+    padding-top: 0px;
+    color: #28166F;
+    text-align: center;
+}
+
+#principal_centro{
+    min-height: 420px;
+    margin-bottom: 20px;
+}
+
+#rodape_principal{
+    background: #f10303;
+    border-radius: 7px;
+    border-width: 1px;         
+    padding: 15px 0px 10px 0px;
+    text-align: center;
+    margin: 0 0 0 0;
+    min-width: 73%;
+}
+
+.rodape_texto{
+    margin-top: 7px;
+    text-align: center;
+}
+
+
+/* Formularios */
+
+a.formbutton{
+    color: black;
+}
+
+a.formbutton:hover{
+    color: black;
+    font-weight: normal;
+}
+
+.tabela_botoes{
+    padding-top: 25px;
+    text-align: right;
+}
+
+.msgNivel_senha{
+    color: #000000;
+    text-align: left;
+    padding: 5px 5px 5px 0px;
+}
+
