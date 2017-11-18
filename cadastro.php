@@ -77,6 +77,14 @@
                 </div>
 
             </div>
+            
+            <div class="control-group col-md-6">
+                <form method="post" enctype="multipart/form-data" action="recebeUpload.php">
+                    Selecione uma imagem: <input name="arquivo" type="file" />
+                    <br />
+                    <input type="submit" value="Salvar" />
+                </form>
+            </div>
 
           
 
@@ -94,5 +102,5 @@
 
         </form>        
 
-        </div>    
+    </div>    
 </div>
